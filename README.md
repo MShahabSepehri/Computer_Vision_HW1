@@ -1,4 +1,4 @@
-# Computer vision HW1
+# Computer Vision HW1
 
 **First question:** Harris Corner Detection and Matching <br />
 **Second question:** Perspective <br />
