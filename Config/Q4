@@ -1,0 +1,6 @@
+[params]
+x_off = 3500
+y_off = 1500
+ratio_tr = 0.75
+inlier_tr = 3
+confidence = 0.99

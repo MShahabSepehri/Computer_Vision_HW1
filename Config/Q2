@@ -1,0 +1,8 @@
+[params]
+image_path = logo.png
+f = 500
+d = 25
+z = 40
+n1 = 0
+n2 = 0
+n3 = -1
